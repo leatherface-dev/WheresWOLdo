@@ -1,0 +1,10 @@
+﻿{
+  "Author": "Haplo064, updated by leatherface-dev",
+  "Name": "Where's WOLdo (API 5)",
+  "Punchline": "Show current location.",
+  "Description": "Text overlay of current location name.",
+  "RepoUrl": "https://github.com/leatherface-dev/WheresWOLdo",
+  "ImageUrls": [],
+  "Changelog": "Update for API 5.",
+  "DalamudApiLevel": 5
+}
